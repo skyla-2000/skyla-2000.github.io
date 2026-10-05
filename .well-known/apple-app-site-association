@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["93AZRCPP9R.com.skyla2000.app1440"],
+        "components": [{ "/": "/1440-legal/join.html*", "comment": "1440 약속·공유 캘린더 링크" }],
+        "paths": ["/1440-legal/join.html*"]
+      }
+    ]
+  }
+}
